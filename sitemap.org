@@ -1,0 +1,5 @@
+#+TITLE: Sitemap
+
+- [[file:projects.org][Projects]]
+- [[file:README.org][README]]
+- [[file:index.org][Welcome to winny.tech]]

@@ -1,0 +1,43 @@
+#+setupfile: private/templates/level-0.org
+#+TITLE: Welcome to winny.tech
+#+DATE: <2019-11-19 Tue>
+
+* The personal site of Winston Weinert (winny)
+
+  I am studying computer science at University of Wisconsin -
+  Milwaukee. My expected graduation date is Spring 2020. I enjoy
+  experimenting with Racket, working with Linux, and participating in
+  open source.
+
+  I am the [[https://uwmcomputer.club][IEEE-CS @ UWM]] President for Fall 2019.
+
+  I sling code on [[https://github.com/winny-][GitHub]] and [[https://gitlab.com/winny][GitLab]], occasionally using other
+  services.
+
+  Read my blog at [[https://blog.winny.tech/][blog.winny.tech]].
+
+** Site Disclaimer
+
+   This site shouldn't require anything modern in terms of hardware or
+   internet connection. As such it may appear pretty basic, and that's
+   exactly how I want it :). Thank you for your understanding.
+
+   *As of <2019-11-19 Tue> this site is still being
+   reworked.*
+
+   This site is solely my own work and reflects only /my own/
+   viewpoints.
+
+** Contact
+
+   - Email :: winstonBOGUSTEXT AT ml1 DOT net
+   - IRC :: I am winny on Freenode and other networks
+   - Keybase :: [[https://keybase.io/winny][@winny]]
+
+** Projects
+
+   See [[file:projects.org][my projects page]].
+
+** About this site
+
+   See the site's [[file:README.org][README]].

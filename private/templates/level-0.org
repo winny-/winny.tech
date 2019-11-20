@@ -1,0 +1,8 @@
+#+setupfile: base.org
+#+html_link_up: sitemap.html
+#+html_link_home: index.html
+
+* COMMENT html style specifications
+  # Local Variables:
+  # org-export-html-style: "<link rel=\"stylesheet\" type=\"text/css\" href=\"css/stylesheet.css\" />"
+  # End:

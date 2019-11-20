@@ -1,0 +1,12 @@
+#+setupfile: private/templates/level-0.org
+#+title: README
+#+date: <2019-11-20 Wed>
+
+This is largely based off of [[https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html][Worg's "Publishing Org-mode files to
+HTML"]].
+
+Evaluate [[file:private/setup.el]] and then run =M-x org-publish-project
+RET org RET=.
+
+The code is located on [[https://github.com/winny-/winny.tech][GitHub]]. This website and project files are
+licensed under [[file:LICENSE.txt][CC-BY-SA-4.0]].

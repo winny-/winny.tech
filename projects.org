@@ -1,0 +1,10 @@
+#+setupfile: private/templates/level-0.org
+#+TITLE: Projects
+#+DATE: <2019-11-19 Tue>
+
+* Active
+
+  - wine-prefix :: A wine prefix manager
+  - mumble-ping :: Utility library to check mumble server status
+
+* Inactive
