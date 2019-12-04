@@ -1,6 +1,6 @@
 #+setupfile: private/templates/level-0.org
 #+TITLE: Welcome to winny.tech
-#+DATE: <2019-11-19 Tue>
+#+DATE: <2019-12-04 Wed>
 
 * The personal site of Winston Weinert (winny)
 
@@ -22,7 +22,7 @@
    internet connection. As such it may appear pretty basic, and that's
    exactly how I want it :). Thank you for your understanding.
 
-   *As of <2019-11-19 Tue> this site is still being
+   *As of <2019-12-04 Wed> this site is still being
    reworked.*
 
    This site is solely my own work and reflects only /my own/
@@ -30,9 +30,10 @@
 
 ** Contact
 
-   - Email :: winstonBOGUSTEXT AT ml1 DOT net
+   - Email :: winston BOGUSTEXT AT ml1 DOT net
    - IRC :: I am winny on Freenode and other networks
    - Keybase :: [[https://keybase.io/winny][@winny]]
+   - LinkedIn :: [[https://www.linkedin.com/in/winstonweinert/][winstonweinert]]
 
 ** Projects
 
